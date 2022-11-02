@@ -9,4 +9,4 @@ const Blog = () => {
     );
 };
 
-export default Blog; khadyo
+export default Blog; 
