@@ -1,0 +1,13 @@
+.Shop-container{
+    background-image: url(./bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.shop-content{
+    padding: 60px 0px;
+}
+.card-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
