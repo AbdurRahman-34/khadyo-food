@@ -3,5 +3,5 @@
 ### The website that has been used : 
 
 #### ◉ React Routing 
-#### ◉ React Boostrap
+#### ◉ React bootstrap
 #### ◉ MealDb Api
